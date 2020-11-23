@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flush_funds/static/css/main.5fd1fbaf.chunk.css",
+    "main.js": "/flush_funds/static/js/main.8cfffabd.chunk.js",
+    "main.js.map": "/flush_funds/static/js/main.8cfffabd.chunk.js.map",
+    "runtime-main.js": "/flush_funds/static/js/runtime-main.9a718de8.js",
+    "runtime-main.js.map": "/flush_funds/static/js/runtime-main.9a718de8.js.map",
+    "static/js/2.43054e71.chunk.js": "/flush_funds/static/js/2.43054e71.chunk.js",
+    "static/js/2.43054e71.chunk.js.map": "/flush_funds/static/js/2.43054e71.chunk.js.map",
+    "static/js/3.48af68e7.chunk.js": "/flush_funds/static/js/3.48af68e7.chunk.js",
+    "static/js/3.48af68e7.chunk.js.map": "/flush_funds/static/js/3.48af68e7.chunk.js.map",
+    "index.html": "/flush_funds/index.html",
+    "static/css/main.5fd1fbaf.chunk.css.map": "/flush_funds/static/css/main.5fd1fbaf.chunk.css.map",
+    "static/js/2.43054e71.chunk.js.LICENSE.txt": "/flush_funds/static/js/2.43054e71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a718de8.js",
+    "static/js/2.43054e71.chunk.js",
+    "static/css/main.5fd1fbaf.chunk.css",
+    "static/js/main.8cfffabd.chunk.js"
+  ]
+}
